@@ -1,5 +1,7 @@
 # SmartBridge-Externship
-Project title - RECIPE RECOMMENDATION SYSTEM - RECIPIFY
+Project title - RECIPE RECOMMENDATION SYSTEM 
+
+nick-named: RECIPIFY
 
 For our project RECIPIFY, we have uploaded the demo video and documentation in this github repository, in case the same isnt loading in the project folder, kindly refer to this google drive folder:
 
